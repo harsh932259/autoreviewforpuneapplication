@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f3f5f9;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.container {
+  width: 100%;
+  max-width: 420px;
+  background: white;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+#subtitle {
+  text-align: center;
+  color: gray;
+  margin-bottom: 15px;
+}
+
+.language-buttons {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 15px;
+}
+
+.language-buttons button {
+  flex: 1;
+  border: none;
+  padding: 10px;
+  border-radius: 8px;
+  background: #e9eefc;
+  cursor: pointer;
+}
+
+.review-card {
+  background: #f9fafc;
+  padding: 14px;
+  border-radius: 12px;
+  margin-bottom: 12px;
+}
+
+.review-card p {
+  margin: 0 0 10px;
+  line-height: 1.4;
+}
+
+.post-btn {
+  width: 100%;
+  border: none;
+  background: linear-gradient(90deg,#3b82f6,#06b6d4);
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+#loadMoreBtn {
+  width: 100%;
+  border: none;
+  margin-top: 10px;
+  padding: 12px;
+  border-radius: 8px;
+  background: #111;
+  color: white;
+  cursor: pointer;
+}

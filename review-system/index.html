@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Review Generator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+  <h2 id="title">Rate Us ⭐</h2>
+  <p id="subtitle">Choose a review and press Post</p>
+
+  <div class="language-buttons">
+    <button onclick="setLanguage('en')">English</button>
+    <button onclick="setLanguage('hi')">Hindi</button>
+    <button onclick="setLanguage('mr')">Marathi</button>
+  </div>
+
+  <div id="reviews"></div>
+
+<button id="loadMoreBtn" onclick="loadMore()">
+  Load More Reviews
+</button>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
