@@ -1,6 +1,6 @@
 // ===== BUSINESS SETTINGS =====
 
-const businessName = "AWTE Cool Solutions And PCB Repair";
+const businessName = "Concept Academy";
 
 const googleReviewLink =
 "https://g.page/r/CTOomNcWlZN2EBM/review";
@@ -10,81 +10,84 @@ const googleReviewLink =
 
 const templates = {
 
+  // ---------- ENGLISH ----------
   en: {
     intro: [
-      "Excellent experience with",
-      "Very satisfied with the service at",
+      "Excellent learning experience at",
+      "Very satisfied with the teaching at",
       "Highly impressed by",
-      "Great repair service from",
-      "Professional work done by"
+      "Great coaching classes from",
+      "Professional guidance provided by"
     ],
 
     middle: [
-      "the technician was skilled and helpful.",
-      "repair was done quickly and professionally.",
-      "pricing was honest and affordable.",
-      "communication was clear and transparent.",
-      "issue was fixed perfectly."
+      "teachers explain concepts very clearly.",
+      "study material is helpful and easy to understand.",
+      "faculty is supportive and motivating.",
+      "teaching method is simple and effective.",
+      "classes helped improve my confidence and scores."
     ],
 
     ending: [
-      "Highly recommended!",
-      "Will definitely visit again.",
-      "Great service overall.",
-      "Trusted repair shop.",
-      "Five star experience."
+      "Highly recommended for students!",
+      "Best coaching institute.",
+      "Great learning environment.",
+      "Excellent guidance overall.",
+      "Five star academic experience."
     ]
   },
 
 
+  // ---------- HINDI ----------
   hi: {
     intro: [
-      "बहुत अच्छा अनुभव रहा",
-      "सर्विस से पूरी तरह संतुष्ट हूँ",
-      "यहाँ की सेवा शानदार रही",
-      "बहुत प्रोफेशनल काम किया गया",
-      "बहुत बढ़िया रिपेयर सर्विस मिली"
+      "Concept Academy में बहुत अच्छा अनुभव रहा",
+      "यहाँ की पढ़ाई से पूरी तरह संतुष्ट हूँ",
+      "Concept Academy की टीचिंग शानदार है",
+      "बहुत प्रोफेशनल तरीके से पढ़ाया जाता है",
+      "यहाँ पढ़ाई का अनुभव बेहतरीन रहा"
     ],
 
     middle: [
-      "टेक्नीशियन बहुत मददगार था।",
-      "रिपेयर जल्दी और सही तरीके से हुआ।",
-      "प्राइसिंग ईमानदार और सही थी।",
-      "पूरा काम प्रोफेशनल तरीके से हुआ।",
-      "समस्या पूरी तरह ठीक हो गई।"
+      "टीचर्स कॉन्सेप्ट बहुत अच्छे से समझाते हैं।",
+      "स्टडी मटेरियल बहुत हेल्पफुल है।",
+      "फैकल्टी सपोर्टिव और मोटिवेटिंग है।",
+      "पढ़ाने का तरीका आसान और असरदार है।",
+      "मेरे मार्क्स और कॉन्फिडेंस में सुधार हुआ।"
     ],
 
     ending: [
       "जरूर रिकमेंड करूंगा।",
-      "फिर से सर्विस लूंगा।",
-      "बहुत भरोसेमंद जगह है।",
+      "बेहतरीन कोचिंग क्लास।",
+      "स्टूडेंट्स के लिए बहुत अच्छी जगह।",
       "शानदार अनुभव।",
       "Highly recommended."
     ]
   },
 
 
+  // ---------- MARATHI ----------
   mr: {
     intro: [
-      "खूप छान अनुभव आला",
-      "सेवा खूप समाधानकारक होती",
-      "प्रोफेशनल काम केले",
-      "रिपेअर सर्विस उत्कृष्ट होती",
-      "खूप विश्वासार्ह सेवा मिळाली"
+      "Concept Academy मध्ये खूप छान अनुभव आला",
+      "इथली शिकवण्याची पद्धत खूप चांगली आहे",
+      "Concept Academy ची सेवा समाधानकारक आहे",
+      "इथे प्रोफेशनल मार्गदर्शन मिळते",
+      "खूप विश्वासार्ह कोचिंग क्लास आहे"
     ],
 
     middle: [
-      "टेक्निशियन खूप मदत करणारा होता.",
-      "काम जलद आणि व्यवस्थित झाले.",
-      "किंमत योग्य आणि प्रामाणिक होती.",
-      "समस्या पूर्णपणे सुटली.",
-      "संपूर्ण अनुभव खूप चांगला होता."
+      "टीचर्स कॉन्सेप्ट खूप स्पष्ट समजावतात.",
+      "स्टडी मटेरियल खूप उपयोगी आहे.",
+      "फॅकल्टी खूप मदत करणारी आहे.",
+      "शिकवण्याची पद्धत सोपी आणि प्रभावी आहे.",
+      "माझा आत्मविश्वास आणि मार्क्स सुधारले."
     ],
 
     ending: [
       "नक्की भेट द्या.",
-      "पुन्हा सेवा घेईन.",
-      "विश्वास ठेवण्यासारखी जागा.",
+      "खूप छान कोचिंग क्लास.",
+      "विद्यार्थ्यांसाठी उत्तम जागा.",
       "खूप समाधान.",
       "Highly recommended."
     ]
