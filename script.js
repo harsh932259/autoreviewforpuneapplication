@@ -3,7 +3,7 @@
 const businessName = "Concept Academy";
 
 const googleReviewLink =
-"https://g.page/r/CTOomNcWlZN2EBM/review";
+"https://g.page/r/CeJ_x5rd31VLEBM/review";
 
 
 // ===== REVIEW TEMPLATES =====
@@ -203,3 +203,4 @@ function postReview(text) {
 
 buildPool();
 loadMore();
+
