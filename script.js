@@ -13,27 +13,27 @@ const templates = {
   // ---------- ENGLISH ----------
   en: {
     intro: [
-      "Excellent learning experience at",
-      "Very satisfied with the teaching at",
-      "Highly impressed by",
-      "Great coaching classes from",
-      "Professional guidance provided by"
+      "Excellent engineering coaching at",
+      "Very satisfied with the engineering guidance at",
+      "Highly impressed by the technical teaching at",
+      "Great engineering preparation classes from",
+      "Professional engineering mentoring provided by"
     ],
 
     middle: [
-      "teachers explain concepts very clearly.",
-      "study material is helpful and easy to understand.",
-      "faculty is supportive and motivating.",
-      "teaching method is simple and effective.",
-      "classes helped improve my confidence and scores."
+      "faculty explains engineering concepts and numericals very clearly.",
+      "notes and study material are perfect for diploma and degree students.",
+      "teachers focus on problem-solving and exam-oriented preparation.",
+      "complex engineering topics are taught in a simple way.",
+      "classes helped improve my technical understanding and marks."
     ],
 
     ending: [
-      "Highly recommended for students!",
-      "Best coaching institute.",
-      "Great learning environment.",
-      "Excellent guidance overall.",
-      "Five star academic experience."
+      "Highly recommended for engineering students!",
+      "Best engineering coaching institute.",
+      "Perfect for diploma and degree preparation.",
+      "Excellent technical guidance overall.",
+      "Five star learning experience."
     ]
   },
 
@@ -41,26 +41,26 @@ const templates = {
   // ---------- HINDI ----------
   hi: {
     intro: [
-      "Concept Academy में बहुत अच्छा अनुभव रहा",
-      "यहाँ की पढ़ाई से पूरी तरह संतुष्ट हूँ",
-      "Concept Academy की टीचिंग शानदार है",
-      "बहुत प्रोफेशनल तरीके से पढ़ाया जाता है",
-      "यहाँ पढ़ाई का अनुभव बेहतरीन रहा"
+      "Concept Academy में इंजीनियरिंग कोचिंग का बहुत अच्छा अनुभव रहा",
+      "यहाँ की इंजीनियरिंग गाइडेंस से पूरी तरह संतुष्ट हूँ",
+      "इंजीनियरिंग स्टूडेंट्स के लिए शानदार क्लासेस",
+      "बहुत प्रोफेशनल तरीके से इंजीनियरिंग पढ़ाई जाती है",
+      "टेक्निकल विषयों की बेहतरीन कोचिंग मिलती है"
     ],
 
     middle: [
-      "टीचर्स कॉन्सेप्ट बहुत अच्छे से समझाते हैं।",
-      "स्टडी मटेरियल बहुत हेल्पफुल है।",
-      "फैकल्टी सपोर्टिव और मोटिवेटिंग है।",
-      "पढ़ाने का तरीका आसान और असरदार है।",
-      "मेरे मार्क्स और कॉन्फिडेंस में सुधार हुआ।"
+      "टीचर्स इंजीनियरिंग कॉन्सेप्ट और न्यूमेरिकल्स बहुत अच्छे से समझाते हैं।",
+      "डिप्लोमा और डिग्री स्टूडेंट्स के लिए स्टडी मटेरियल बहुत हेल्पफुल है।",
+      "एग्जाम ओरिएंटेड तैयारी पर पूरा फोकस रहता है।",
+      "कठिन टेक्निकल टॉपिक्स आसान तरीके से समझाए जाते हैं।",
+      "मेरे टेक्निकल कॉन्फिडेंस और मार्क्स में सुधार हुआ।"
     ],
 
     ending: [
-      "जरूर रिकमेंड करूंगा।",
-      "बेहतरीन कोचिंग क्लास।",
-      "स्टूडेंट्स के लिए बहुत अच्छी जगह।",
-      "शानदार अनुभव।",
+      "इंजीनियरिंग स्टूडेंट्स के लिए जरूर रिकमेंड करूंगा।",
+      "बेहतरीन इंजीनियरिंग कोचिंग क्लास।",
+      "टेक्निकल स्टूडेंट्स के लिए शानदार जगह।",
+      "बहुत अच्छा लर्निंग अनुभव।",
       "Highly recommended."
     ]
   },
@@ -69,26 +69,26 @@ const templates = {
   // ---------- MARATHI ----------
   mr: {
     intro: [
-      "Concept Academy मध्ये खूप छान अनुभव आला",
-      "इथली शिकवण्याची पद्धत खूप चांगली आहे",
-      "Concept Academy ची सेवा समाधानकारक आहे",
-      "इथे प्रोफेशनल मार्गदर्शन मिळते",
-      "खूप विश्वासार्ह कोचिंग क्लास आहे"
+      "Concept Academy मध्ये इंजिनिअरिंग कोचिंगचा खूप चांगला अनुभव आला",
+      "इथले इंजिनिअरिंग मार्गदर्शन उत्कृष्ट आहे",
+      "इंजिनिअरिंग विद्यार्थ्यांसाठी उत्तम क्लासेस",
+      "टेक्निकल विषय खूप प्रोफेशनल पद्धतीने शिकवले जातात",
+      "डिप्लोमा आणि डिग्रीसाठी खूप चांगले कोचिंग"
     ],
 
     middle: [
-      "टीचर्स कॉन्सेप्ट खूप स्पष्ट समजावतात.",
-      "स्टडी मटेरियल खूप उपयोगी आहे.",
-      "फॅकल्टी खूप मदत करणारी आहे.",
-      "शिकवण्याची पद्धत सोपी आणि प्रभावी आहे.",
-      "माझा आत्मविश्वास आणि मार्क्स सुधारले."
+      "टीचर्स इंजिनिअरिंग कॉन्सेप्ट आणि न्यूमेरिकल्स खूप स्पष्ट समजावतात.",
+      "डिप्लोमा आणि डिग्री विद्यार्थ्यांसाठी स्टडी मटेरियल खूप उपयोगी आहे.",
+      "एग्जाम ओरिएंटेड तयारीवर चांगला फोकस असतो.",
+      "अवघड टेक्निकल टॉपिक्स सोप्या पद्धतीने शिकवले जातात.",
+      "माझा आत्मविश्वास आणि मार्क्स दोन्ही सुधारले."
     ],
 
     ending: [
-      "नक्की भेट द्या.",
-      "खूप छान कोचिंग क्लास.",
-      "विद्यार्थ्यांसाठी उत्तम जागा.",
-      "खूप समाधान.",
+      "इंजिनिअरिंग विद्यार्थ्यांसाठी नक्की भेट द्या.",
+      "खूप छान इंजिनिअरिंग कोचिंग क्लास.",
+      "टेक्निकल विद्यार्थ्यांसाठी उत्तम जागा.",
+      "शिकण्याचा उत्कृष्ट अनुभव.",
       "Highly recommended."
     ]
   }
@@ -203,4 +203,3 @@ function postReview(text) {
 
 buildPool();
 loadMore();
-
